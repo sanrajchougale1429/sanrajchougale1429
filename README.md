@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> 👋 Hi, I'm sanrajchougale1429<br>
+  <br> I'm sanrajchougale1429<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
  </abc>
@@ -10,13 +10,20 @@
 
 🚀 Developer | AI Enthusiast | Cloud Explorer | Deep Learning Explorer
 
-Welcome to my GitHub! I'm a passionate developer with experience in building intelligent applications, web solutions, and cloud-based infrastructures. I enjoy learning and applying cutting-edge technologies to solve real-world problems.
+Welcome to my GitHub! I'm a passionate developer with experience in building intelligent applications, web solutions, and cloud-based infrastructures. 
+I enjoy learning and applying cutting-edge technologies to solve real-world problems.
+
 
 💡 What I Do:
-🤖 AI and Machine Learning: Working on AI-powered projects like chatbots (RAG), multimodal systems, and grounding technologies.
-🧠 Deep Learning: Exploring neural networks for NLP, computer vision, and multimodal learning.
-☁️ Cloud Computing: Exploring AWS (EKS, EC2, ECR) and containerization with Docker and Kubernetes.
-🔬 Research Enthusiast: Passionate about diving deep into new tech and sharing knowledge.
+
+- 🤖 AI and Machine Learning: Working on AI-powered projects like chatbots (RAG), multimodal systems, and grounding technologies.
+
+- 🧠 Deep Learning: Exploring neural networks for NLP, computer vision, and multimodal learning.
+
+- ☁️ Cloud Computing: Exploring AWS (EKS, EC2, ECR) and containerization with Docker and Kubernetes.
+
+- 🔬 Research Enthusiast: Passionate about diving deep into new tech and sharing knowledge.
+  
 
 🛠️ Technologies and Tools:
 Languages: Python, JavaScript
