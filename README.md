@@ -3,9 +3,11 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm sanraj chougale<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+    <div style="text-align: center;">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+    </div>
  </abc>
-</h2> 
+</h2>
 
 
 🚀 Developer | AI Enthusiast | Cloud Explorer | Deep Learning Explorer
