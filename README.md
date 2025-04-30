@@ -93,7 +93,7 @@ I enjoy learning and applying cutting-edge technologies to solve real-world prob
 
 📫 **Connect with Me:**
 
-- GitHub: [github.com/sanrajchougale1429]([https://github.com/sanny1429](https://github.com/sanrajchougale1429))  
+- GitHub: [github.com/sanrajchougale1429]((https://github.com/sanrajchougale1429)
 - LinkedIn: [www.linkedin.com/in/sanraj-chougale](https://www.linkedin.com/in/sanraj-chougale)  
 - Blog: [https://medium.com/@sanrajchougale1429](https://medium.com/@sanrajchougale1429)
 
